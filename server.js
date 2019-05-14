@@ -67,5 +67,5 @@ app.post("/savetodrive", async(req, res1, next) => {
 });
 
 app.listen(process.env.PORT || 3000, () => {
-	console.log("Server running on port 3000");
+	console.log("Server is running.");
 });
