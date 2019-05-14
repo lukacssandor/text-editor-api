@@ -17,5 +17,8 @@
     "googleapis": "^39.2.0",
     "pdfmake": "^0.1.56",
     "request": "^2.88.0"
+  },
+  "engines": {
+    "node": "11.x"
   }
 }
